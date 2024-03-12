@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer className="bg-gray-800">
-            <div className="container px-6 py-12 mx-auto">
+            <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8 my-20">
                 <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
                     <div className="sm:col-span-2">
                         <h1 className="max-w-lg text-xl font-semibold tracking-tight text-gray-800 xl:text-2xl dark:text-white">Subscribe our newsletter to get update.</h1>
